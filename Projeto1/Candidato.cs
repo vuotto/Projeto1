@@ -13,7 +13,7 @@ namespace Projeto1
         {
             Nome = nome;
             Numero = num;
-            Tipo = tipo;
+            
         }
     }
 }
